@@ -1,0 +1,30 @@
+Comments --- Comments are the notes which are written in the source code which is 
+ignored by the python interpreter for the execution.
+comments start with # and continues to the end of the line.
+Python does not support multi-line comments but can be achieved using a doc string
+"""multi-line""".
+
+--------------------------------------------------------------------------------------
+
+Variables --- Variables are names we use in a program to refer to data (values) so you
+can reuse and change that data while the program runs.
+Python variables are dynamically typed, meaning the same variable name can later be 
+reassigned to a value of a different type (for example, an int first and then a str).
+
+For example :
+name = pritam
+age = 20
+
+Here, name is a variable which holds the value "pritam", and age is also a variable which
+holds the value "20"
+
+Rule's for Variable name :
+1. Variable name cannot start with the numbers.
+2. Variable name cannot have spaces between them.
+3. Variable name cannot have special characters.
+4. Variable names are case-sensitive (age, Age, AGE are different).
+
+Naming Conventions for variable :
+1. Camel case - pritamPhadtare
+2. Pascal case - PritamPhadtare
+3. Snake case - pritam_phadtare

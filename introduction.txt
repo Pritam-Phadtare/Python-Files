@@ -1,0 +1,18 @@
+What is a Programming language ?
+--> Programming language is a medium through which the human beings can communicate
+with the machines and systems , as systems uses the machine language (Binary) which
+is hard to decode for a normal person , so instead of using the binary language
+we humans generally use the programming language as a medium to communicate with
+machines.
+
+Python origin --- The python programming language was invented by Guido van Rossum in
+1980, where the python was designed as a successor to the ABC language which belived in 
+simple readibility and and high level task. The name “Python” was inspired by the
+British TV comedy series Monty Python’s Flying Circus, not the snake.
+Python’s first public release happened in 1991 (early 1991, with versions in the 0.9.x range)
+
+Python Working --- Python is an interpreted language, which say's whenever you run a .py file
+1. The interpreter parses your source code and compiles into an intermediate form called bytecode.
+2. That bytecode may be stored as a .pyc so next runs can skip recompiling when nothing changed.
+3. The Python Virtual Machine (PVM) executes that bytecode instruction-by-instruction in an interpreter
+loop.
